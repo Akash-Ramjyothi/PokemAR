@@ -1,0 +1,101 @@
+// Designed and developed by 2020 skydoves (Jaewoong Eum)
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+//    You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+//     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+ext.versions = [
+    minSdk               : 24,
+    compileSdk           : 30,
+    versionCode          : 2,
+    versionName          : '1.0.1',
+
+    // gradle plugins
+    gradleBuildTool      : '4.1.3',
+    spotlessGradle       : '5.12.3',
+
+    // kotlin
+    kotlin               : '1.4.32',
+
+    // ar-core
+    arCoreVersion        : '1.22.0',
+    sceneFormVersion     : '1.17.1',
+
+    // support library
+    materialVersion      : '1.3.0',
+    constraintVersion    : '2.0.4',
+
+    // architecture components
+    fragmentVersion      : '1.2.5',
+    lifecycleVersion     : '2.2.0',
+    roomVersion          : '2.3.0-alpha03',
+    archCompomentVersion : '2.1.0',
+
+    // binding
+    bindablesVersion       : '1.0.6',
+
+    // startup
+    startupVersion       : '1.0.0',
+
+    // di
+    hiltCoreVersion      : '2.36',
+    hiltVersion          : '1.0.0',
+
+    // network
+    retrofitVersion      : '2.9.0',
+    okhttpVersion        : '4.7.2',
+    sandwichVersion      : '1.1.0',
+
+    // moshi
+    moshiVersion         : '1.11.0',
+    moshiConverterVersion: '2.7.2',
+
+    // coroutines
+    coroutinesVersion    : '1.4.3',
+
+    // glide
+    glideVersion         : '4.12.0',
+    glidePaletteVersion  : '2.1.2',
+
+    // recyclerView
+    recyclerView         : '1.2.0-alpha06',
+
+    // whatIf
+    whatIfVersion        : '1.1.0',
+
+    // bundler
+    bundlerVersion       : '1.0.4',
+
+    // balloon
+    balloonVersion       : '1.3.4',
+
+    // android ribbon
+    androidRibbonVersion : '1.0.3',
+
+    // progress view
+    progressViewVersion  : '1.1.0',
+
+    // rainbow
+    rainbowVersion       : '1.0.4',
+
+    // debugging
+    timberVersion        : '4.7.1',
+
+    // unit test
+    junitVersion         : '4.13.1',
+    androidxTest         : '1.3.0',
+    unitTestCoreVersion  : '1.2.0',
+    robolectricVersion   : '4.4',
+    androidxTestRules    : '1.2.0-alpha04',
+    mockWebServerVersion : '3.9.0',
+    mockitoKotlinVersion : '2.2.0',
+    mockitoInlineVersion : '3.5.13'
+]
