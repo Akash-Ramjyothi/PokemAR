@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-AR (Augmented Reality) Gallery is an Augmented Reality based Photo Viewer. It stimulates the perspective or point of vision of a real-time gallery. The AR Gallery is recognizable for mobile devices and can be seen by opening the app and aiming the camera of mobile phone or tablet at a flat surface. The images changes according to the movements of the mobile device used for viewing.
+Pokem"AR" is a small mimic of the famous Augmented Reality game Pokemon Go. Here Geo Location is not being used and the models are not implemented in a real-time world. A 3D game object appears as Pokemon and when touched the ball, it automaticaly collides with the Game Object and the details of the Pokemon are stored and displayed through PokeAPI.
 
 ## 🌎 Released Android Application:
 https://gofile.io/d/SYnHQU
