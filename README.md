@@ -11,7 +11,7 @@ Pokem"AR" is a small mimic of the famous Augmented Reality game Pokemon Go. Here
 https://gofile.io/d/SYnHQU
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/121909580-afc38600-cd4b-11eb-8077-079dbe1c54ab.mp4
 
 ## 🏗 Built With:
 - PokeAPI.
